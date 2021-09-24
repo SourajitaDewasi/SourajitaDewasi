@@ -2,13 +2,13 @@
          height="45"
          width="45" /></h2>
        
-<h5 align="center">
+<h4 align="center">
 I am in my third year of study in IIIT Raipur in the Department of Computer Science and Engineering. 🌱
 I am a Frontend Developer, Deep Learning Enthusiast and Writer.
 I’m looking to collaborate on Machine Learning research projects. <img src="https://github.com/kohler/gifsicle/blob/master/logo.gif" alt="SourajitaDewasi"
          height="35"
          width="20" />
-</h5>
+</h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SourajitaDewasi&label=Profile%20views&color=0e75b6&style=flat" alt="SourajitaDewasi" /> </p>
 <p>
 <a align= "center" href="https://github.com/SourajitaDewasi">
