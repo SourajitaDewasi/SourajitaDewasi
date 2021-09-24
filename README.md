@@ -3,9 +3,7 @@
          width="45" /></h2>
        
 <h4 align="center">
-I am in my third year of study in IIIT Raipur in the Department of Computer Science and Engineering. 🌱
-I am a Frontend Developer, Deep Learning Enthusiast and Writer.
-I’m looking to collaborate on Machine Learning research projects. <img src="https://github.com/kohler/gifsicle/blob/master/logo.gif" alt="SourajitaDewasi"
+I am in my third year of study in IIIT Raipur from India 📍 in the Department of Computer Science and Engineering! I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning research projects. <img src="https://github.com/kohler/gifsicle/blob/master/logo.gif" alt="SourajitaDewasi"
          height="35"
          width="20" />
 </h4>
@@ -19,15 +17,26 @@ I’m looking to collaborate on Machine Learning research projects. <img src="ht
 
 <p align="left"> <a href="https://twitter.com/SourajitaD" target="blank"><img src="https://img.shields.io/twitter/follow/SourajitaD?logo=twitter&style=for-the-badge" alt="SourajitaD" /></a> </p>
 
-<br><br>
-<hr>
+<h4> Beside's developing stuff, I enjoy listening music 🎧, watching K-dramas🎭, reading book 📚, and traveling 🚵🏾‍♂️. </h4>
+<h4>Some Achievements</h4>
+- 💭 Incharge of Debate Club (2020-21)
+<br>- 🎓 Chairman's Tropy at BBPS Sipat (2018)
+<br>- 👨‍💻 Ex- Summer Research Intern @IIT Bhillai
+<br>- 🏆 Top-40 Quarter-Finalists in KPMG Challenge 2020.
+<br>- ❔ Ask me about anything, I am happy to help
+</hr>
 
+<br><br>
+
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/SourajitaD" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="SourajitaD" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sourajita-dewasi-52b3b4193/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="SourajitaD" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.yourquote.in/sourajita-d-smae/quotes" target="blank"><img align="center" src="https://www.yourquote.in/icon512.png" alt="SourajitaD" height="50" width="50" /></a>
 </p>
+</hr>
+
 <hr>
 <!---
 SourajitaDewasi/SourajitaDewasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
