@@ -15,7 +15,8 @@ I am in my third year of study in IIIT Raipur from India 📍 in the Department 
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/SourajitaD" target="blank"><img src="https://img.shields.io/twitter/follow/SourajitaD?logo=twitter&style=for-the-badge" alt="SourajitaD" /></a> </p>
+Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers/SourajitaDewasi?label=Follow&style=social)
+<br>Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/SourajitaD?label=Follow&style=social)  
 
 <h4> Beside's developing stuff, I enjoy listening music 🎧, watching K-dramas🎭, reading book 📚, and traveling 🚵🏾‍♂️. </h4>
 <h4>Some Achievements</h4>
@@ -25,6 +26,11 @@ I am in my third year of study in IIIT Raipur from India 📍 in the Department 
 <br>- 🏆 Top-40 Quarter-Finalists in KPMG Challenge 2020.
 <br>- ❔ Ask me about anything, I am happy to help
 </hr>
+
+<details>
+  <summary>My github stats</summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi">
+</details>  
 
 <br><br>
 
