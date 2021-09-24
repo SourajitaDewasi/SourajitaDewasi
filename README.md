@@ -11,7 +11,7 @@ I am in my third year of study in IIIT Raipur from India 📍 in the Department 
 <p>
 <a align= "center" href="https://github.com/SourajitaDewasi">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
 </p>
 <img height="225px" width="400" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
 
@@ -19,14 +19,14 @@ Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers
 <br>Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/SourajitaD?label=Follow&style=social)  
          
 <h4> Beside's developing stuff, I enjoy listening music 🎧, watching K-dramas🎭, reading book 📚, and traveling 🚵🏾‍♂️. </h4>
-<h4>Some Achievements</h4>
-- 💭 Incharge of Debate Club (2020-21)
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Achievements***
+<br>- 💭 Incharge of Debate Club (2020-21)
 <br>- 🎓 Chairman's Tropy at BBPS Sipat (2018)
 <br>- 👨‍💻 Ex- Summer Research Intern @IIT Bhillai
 <br>- 🏆 Top-40 Quarter-Finalists in KPMG Challenge 2020.
 <br>- ❔ Ask me about anything, I am happy to help
 </hr>
-
 <br><br>
 
 <hr>
