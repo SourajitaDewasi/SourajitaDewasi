@@ -27,11 +27,6 @@ Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers
 <br>- ❔ Ask me about anything, I am happy to help
 </hr>
 
-<details>
-  <summary>My github stats</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi">
-</details>  
-
 <br><br>
 
 <hr>
