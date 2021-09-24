@@ -16,7 +16,7 @@ I am in my third year of study in IIIT Raipur from India 📍 in the Department 
 <img height="225px" width="400" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
 
 Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers/SourajitaDewasi?label=Follow&style=social)
-Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/SourajitaD?label=Follow&style=social)  
+<br>Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/SourajitaD?label=Follow&style=social)  
          
 <h4> Beside's developing stuff, I enjoy listening music 🎧, watching K-dramas🎭, reading book 📚, and traveling 🚵🏾‍♂️. </h4>
 <h4>Some Achievements</h4>
