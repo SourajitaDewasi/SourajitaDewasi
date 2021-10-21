@@ -3,7 +3,7 @@
          width="45" /></h2>
        
 <h5>
-I am in my third year of study in IIIT Raipur from India 📍 in the Department of Computer Science and Engineering! I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning Projects and Web Development. <img src="https://github.com/kohler/gifsicle/blob/master/logo.gif" alt="SourajitaDewasi"
+I am in my third year of study in IIIT Raipur from India 📍 in the Department of Computer Science and Engineering! I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning and Web Development Projects. <img src="https://github.com/kohler/gifsicle/blob/master/logo.gif" alt="SourajitaDewasi"
          height="35"
          width="20" />
 </h5>
