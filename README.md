@@ -11,11 +11,11 @@ I am in my third year of study in IIIT Raipur from India 📍 in the Department 
 <img alt= "stats card" height="200px" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical">
 <img align="right" height="350" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
 </p>
-<img height="225px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
 
 Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers/SourajitaDewasi?label=Follow&style=social)
 <br>Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/SourajitaD?label=Follow&style=social)  
-         
+ <img align="right" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourajitaDewasi&langs_count=5&theme=tokyonight" />        
 <h4> Beside's developing stuff, I enjoy listening music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Achievements***
