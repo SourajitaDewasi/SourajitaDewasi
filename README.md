@@ -9,7 +9,7 @@ I am in my third year of study in IIIT Raipur from India 📍 in the Department 
 <p>
 <a align= "center" href="https://github.com/SourajitaDewasi">
 <img alt= "stats card" height="200px" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical">
-<img align="right" height="350" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
+<img align="right" height="400" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
 </p>
 <img height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
 
