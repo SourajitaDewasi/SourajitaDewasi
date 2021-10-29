@@ -22,7 +22,7 @@ Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers
 <br>- 💭 Incharge of Debate Club (2020-21)
 <br>- 🎓 Chairman's Tropy at BBPS Sipat (2018)
 <br>- 👨‍💻 Ex- Summer Research Intern @IIT Bhillai
-<br>- 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge (KIC) 2021.
+<br>- 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge (KIC 2021).
 <br>- ❔ Ask me about anything, I am happy to help
 </hr>
 <br><br>
