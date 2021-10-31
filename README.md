@@ -35,13 +35,6 @@ Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers
 <a href="https://www.yourquote.in/sourajita-d-smae/quotes" target="blank"><img align="center" src="https://www.yourquote.in/icon512.png" alt="SourajitaD" height="50" width="50" /></a>
 </p>
 </hr>
-
-<hr>
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![Sourajita snake gif](https://github.com/SourajitaDewasi/SourajitaDewasi/blob/output/github-contribution-grid-snake.svg)
-</hr>
 <!---
 SourajitaDewasi/SourajitaDewasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
