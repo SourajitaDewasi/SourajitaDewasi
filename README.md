@@ -21,6 +21,7 @@ Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Achievements***
 <br>- 💭 Incharge of Debate Club (2020-21)
 <br>- 🎓 Chairman's Tropy at BBPS Sipat (2018)
+<br>- ❤️ Bal Shree Awardee For Creative Writing (2015)
 <br>- 👨‍💻 Ex- Summer Research Intern @IIT Bhillai
 <br>- 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021
 <br>- ❔ Ask me about anything, I am happy to help
