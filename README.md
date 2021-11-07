@@ -3,7 +3,11 @@
          width="45" /></h2>
        
 <h4>
-I am in my third year of study in IIIT Raipur from India 📍 in the Department of Computer Science and Engineering! I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning and Web Development Projects. 
+I am in my third year of study in 
+
+         IIIT Raipur from India 📍 in the Department of Computer Science and Engineering!
+
+I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning and Web Development Projects. 
 </h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SourajitaDewasi&label=Profile%20views&color=0e75b6&style=flat" alt="SourajitaDewasi" /> </p>
 <p>
@@ -13,18 +17,21 @@ I am in my third year of study in IIIT Raipur from India 📍 in the Department 
 </p>
 <img height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
 
-Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers/SourajitaDewasi?label=Follow&style=social)
-<br>Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/SourajitaD?label=Follow&style=social)  
+<details>
+         <summary> Follow Details </summary>
+Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers/SourajitaDewasi?label=Follow&style=social) <br>
+Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/SourajitaD?label=Follow&style=social)  
  <img align="right" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" />        
 <h4> Beside's developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
+</details>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Achievements***
-<br>- 💭 Incharge of Debate Club (2020-21)
-<br>- 🎓 Chairman's Tropy at BBPS Sipat (2018)
-<br>- ❤️ Bal Shree Awardee For Creative Writing (2015)
-<br>- 👨‍💻 Ex- Summer Research Intern @IIT Bhillai
-<br>- 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021
-<br>- ❔ Ask me about anything, I am happy to help
+* 💭 Incharge of Debate Club (2020-21) <br>
+* 🎓 Chairman's Tropy at BBPS Sipat (2018) <br> 
+* ❤️ Bal Shree Awardee For Creative Writing (2015)<br> 
+* 👨‍💻 Ex- Summer Research Intern @IIT Bhillai<br> 
+* 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
+* ❔ Ask me about anything, I am happy to help<br> 
 </hr>
 <br><br>
 
