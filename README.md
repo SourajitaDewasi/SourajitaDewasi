@@ -13,7 +13,7 @@ I am in my third year of study in IIIT Raipur from India 📍 in the Department 
 </p>
 <img height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
 
-**Follow Details**
+**Follow Details** <br>
 Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers/SourajitaDewasi?label=Follow&style=social) <br>
 Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/SourajitaD?label=Follow&style=social)  
  <img align="right" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" />        
