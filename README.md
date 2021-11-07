@@ -1,9 +1,9 @@
 <h2 align="center"> Hi, I'm @SourajitaDewasi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif"
          height="45"
          width="45" /></h2>
-       
+  
 <h4>
-I am in my third year of study in *IIIT Raipur from India 📍 in the Department of Computer Science and Engineering!* I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning and Web Development Projects. 
+I am in my third year of study in IIIT Raipur from India 📍 in the Department of Computer Science and Engineering! I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning and Web Development Projects. 
 </h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SourajitaDewasi&label=Profile%20views&color=0e75b6&style=flat" alt="SourajitaDewasi" /> </p>
 <p>
@@ -21,7 +21,7 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/So
 <h4> Beside's developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
 </details>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Achievements***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements**
 * 💭 Incharge of Debate Club (2020-21) <br>
 * 🎓 Chairman's Tropy at BBPS Sipat (2018) <br> 
 * ❤️ Bal Shree Awardee For Creative Writing (2015)<br> 
