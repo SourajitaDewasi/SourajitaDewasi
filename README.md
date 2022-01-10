@@ -20,13 +20,13 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/So
 <h4> Beside's developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements**
+* 📔 Currently learning UX Design <br> 
 * 💭 Incharge of Debate Club (2020-21) <br>
 * 🎓 Chairman's Tropy at BBPS Sipat (2018) <br> 
 * ❤️ National Bal Shree Awardee For Creative Writing (2015)<br> 
 * 👨‍💻 Ex- Summer Research Intern @IIT Bhillai<br> 
 * 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
 * ❔ Ask me about anything, I am happy to help<br> 
-* 👨‍💻 Currently learning UX Design <br> 
 </hr>
 <br><br>
 
