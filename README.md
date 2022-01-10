@@ -26,6 +26,7 @@ Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/So
 * 👨‍💻 Ex- Summer Research Intern @IIT Bhillai<br> 
 * 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
 * ❔ Ask me about anything, I am happy to help<br> 
+* 👨‍💻 Currently learning UX Design <br> 
 </hr>
 <br><br>
 
