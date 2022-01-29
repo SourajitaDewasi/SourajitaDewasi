@@ -3,7 +3,7 @@
          width="45" /></h2>
   
 <h4>
-I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering! I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning and Web Development Projects. 
+I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering! I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning and Web Development Projects. I azm currently learning UX Design.
 </h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SourajitaDewasi&label=Profile%20views&color=0e75b6&style=flat" alt="SourajitaDewasi" /> </p>
 <p>
@@ -19,7 +19,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements**
 * 📔 Currently learning UX Design <br> 
 * 💭 Incharge of Debate Club (2020-21) <br>
-* 🎓 Chairman's Tropy at BBPS Sipat (2018) <br> 
+* 🎓 Chairman's Trophy at BBPS Sipat (2018) <br> 
 * ❤️ National Bal Shree Awardee For Creative Writing (2015)<br> 
 * 👨‍💻 Ex- Summer Research Intern @IIT Bhillai<br> 
 * 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
