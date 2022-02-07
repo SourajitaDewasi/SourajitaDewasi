@@ -17,7 +17,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 <h4> Beside's developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements**
-* 📔 Currently learning UX Design <br> 
+* 📔 Currently learning UX Design and revising DSA <br> 
 * 💭 Incharge of Debate Club (2020-21) <br>
 * 🎓 Chairman's Trophy at BBPS Sipat (2018) <br> 
 * ❤️ National Bal Shree Awardee For Creative Writing (2015)<br> 
