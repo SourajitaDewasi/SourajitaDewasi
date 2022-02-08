@@ -27,7 +27,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 </hr>
 <br><br>
 <hr>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SourajitaDewasi&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SourajitaDewasi&theme=dracula)
 
 </hr>
 <hr>
