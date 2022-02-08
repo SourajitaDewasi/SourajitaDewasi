@@ -8,16 +8,16 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SourajitaDewasi&label=Profile%20views&color=0e75b6&style=flat" alt="SourajitaDewasi" /> </p>
 <p>
 <a align= "center" href="https://github.com/SourajitaDewasi">
-<img alt= "stats card" height="200px" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical">
 <img align="right" height="400" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
 </p>
 <img height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
-
+<img alt= "stats card" height="200px" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical">
 <img align="right" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" />        
 <h4> Beside's developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements**
 * 📔 Currently learning UX Design and revising DSA <br> 
+* 
 * 💭 Incharge of Debate Club (2020-21) <br>
 * 🎓 Chairman's Trophy at BBPS Sipat (2018) <br> 
 * ❤️ National Bal Shree Awardee For Creative Writing (2015)<br> 
@@ -26,10 +26,11 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 * ❔ Ask me about anything, I am happy to help! <br> 
 </hr>
 <br><br>
-<hr>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SourajitaDewasi&theme=dracula)
 
+<hr>
+<img src="https://activity-graph.herokuapp.com/graph?username=SourajitaDewasi&theme=radical"/>
 </hr>
+
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
