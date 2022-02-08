@@ -26,7 +26,10 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 * ❔ Ask me about anything, I am happy to help! <br> 
 </hr>
 <br><br>
+<hr>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SourajitaDewasi&theme=radical&hide_border=true)
 
+</hr>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
