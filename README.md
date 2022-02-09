@@ -28,6 +28,11 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 <br><br>
 
 <hr>
+<details open>
+<summary>My COntribution CHart</summary>
+<br>
+Well, you asked for it!
+</details>
 <img src="https://activity-graph.herokuapp.com/graph?username=SourajitaDewasi&theme=radical"/>
 </hr>
 
