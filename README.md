@@ -10,8 +10,9 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 <a align= "center" href="https://github.com/SourajitaDewasi">
 <img align="right" height="400" width="400" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
 </p>
-<img height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
 <img alt= "stats card" height="200px" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical">
+<img height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
+
 <img align="right" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" />        
 <h4> Beside's developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
 
