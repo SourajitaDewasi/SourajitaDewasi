@@ -24,7 +24,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 * 💭 Incharge of Debate Club (2020-21) <br>
 * 🎓 Chairman's Trophy at BBPS Sipat (2018) <br> 
 * ❤️ National Bal Shree Awardee For Creative Writing (2015)<br> 
-* ❔ Ask me about anything, I am happy to help! <br> 
+* ❔ Up for a quick chat.<br> 
 </hr>
 <br><br>
 
