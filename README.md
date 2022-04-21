@@ -21,7 +21,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 * 📍 Working on Blogs. Soon to be released on Hashnode! <br>
 * 👨‍💻 Ex- Summer Research Intern @IIT Bhillai<br> 
 * 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
-* 💭 Incharge of Debate Club (2020-21) <br>
+* 💭 Incharge of Debate Club "Take Da Bait"(2020-21) <br>
 * 🎓 Chairman's Trophy at BBPS Sipat (2018) <br> 
 * ❤️ National Bal Shree Awardee For Creative Writing (2015)<br> 
 * ❔ Up for a quick chat. Ask me anything on my socials. <br> 
