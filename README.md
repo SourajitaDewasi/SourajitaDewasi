@@ -3,7 +3,7 @@
          width="45" /></h2>
   
 <h4>
-I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering. I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning, Data Analysis and Web Development Projects. I am currently trying my hands on UX Design.
+I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering. I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning, Data Analysis and Web Development Projects. I am currently trying my hands on UX Design!
 </h4>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SourajitaDewasi&label=Profile%20views&color=0e75b6&style=flat" alt="SourajitaDewasi" /> </p>
 <p>
