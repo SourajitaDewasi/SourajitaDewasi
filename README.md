@@ -16,7 +16,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 <img align="right" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" />        
 <h4> Beside's developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements - Something About Me**
 * 📔 Currently learning UX Design and revising DSA <br> 
 * 📍 Working on Blogs. Soon to be released on Hashnode! <br>
 * 👨‍💻 Ex-Summer Research Intern @IIT Bhillai<br> 
