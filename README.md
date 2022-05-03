@@ -18,7 +18,6 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements - Something About Me**
 * 📔 Currently learning UX Design and revising DSA <br> 
-[//]: <> ( * 📍 Working on Blogs. Soon to be released on Hashnode! <br>)
 * 👨‍💻 Ex-Summer Research Intern @IIT Bhillai<br> 
 * 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
 * 💭 Incharge of Debate Club "Take Da Bait"(2020-21) <br>
