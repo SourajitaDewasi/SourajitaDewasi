@@ -10,12 +10,18 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 <a align= "center" href="https://github.com/SourajitaDewasi">
 <img align="right" height="300" width="300" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
 </p>
+
+
 <img alt= "stats card" height="180px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical">
 <img height="180px" width="350" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" />
-
 <img align="left" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" />        
-<h4> Besides developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
 
+
+<h4> Besides developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
+<table border="0">
+ <tr>
+<td><img align="left" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" /> </td>       
+<td>          
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Some Achievements - Something About Me**
 * 📔 Currently learning UX Design, Data Analysis and revising DSA <br> 
 * 👨‍💻 Ex-Summer Research Intern @IIT Bhillai<br> 
@@ -24,9 +30,12 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 * 🎓 Chairman's Trophy at BBPS Sipat (2018) <br> 
 * ❤️ National Bal Shree Awardee For Creative Writing (2015)<br> 
 * ❔ Up for a quick chat. Ask me anything on my socials. <br> 
+
 </hr>
 <br><br>
-
+</td>
+ </tr>
+ </table>
 <hr>
 <h4>
 <details close>
