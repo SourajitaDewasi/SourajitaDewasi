@@ -48,16 +48,16 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
  </tr>
  </table>
 <hr>
-<h4>
+<h4 align="center">
 <details close>
-<summary>Check Out My Contribution Graph</summary>
+<summary align="center">Check Out My Contribution Graph</summary>
 <img src="https://activity-graph.herokuapp.com/graph?username=SourajitaDewasi&theme=radical"/>
 </details>
 </h4>
 </hr>
 
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://twitter.com/SourajitaD" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="SourajitaD" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sourajita-dewasi-52b3b4193/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="SourajitaD" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
