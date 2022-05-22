@@ -34,7 +34,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
  <td><img align="left" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" /> </td>       
 <td>          
          <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Some Achievements - Something About Me </h3>
-* 📔 Currently learning UX Design, Data Analysis and revising DSA <br> 
+* 📔 Currently learning UX Design, Data Analysis and DSA <br> 
 * 👨‍💻 Ex-Summer Research Intern @IIT Bhillai<br> 
 * 🏆 Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
 * 💭 Incharge of Debate Club "Take Da Bait"(2020-21) <br>
