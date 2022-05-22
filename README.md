@@ -17,8 +17,18 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
                   </td>
            </tr>
     </table>
-  
+ 
+ <hr>
+<h4 align="center">Languages and tools: </h1>
+<p align="center">
+<div align="center">
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 
+</div>
+   
+</p>
+</hr>
+<hr>
 <table border="0">
 <tr><h4> When not developing stuff, I will be found listening to music 🎧, watching K-dramas🎭, reading books 📚 or traveling 🚵🏾‍♂️. </h4>
  <td><img align="left" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" /> </td>       
