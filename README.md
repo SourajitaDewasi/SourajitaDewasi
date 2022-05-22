@@ -20,7 +20,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
   
 
 <table border="0">
-<tr><h4> Besides developing stuff, I enjoy listening to music 🎧, watching K-dramas🎭, reading books 📚, and traveling 🚵🏾‍♂️. </h4>
+<tr><h4> When not developing stuff, I will be found listening to music 🎧, watching K-dramas🎭, reading books 📚 or traveling 🚵🏾‍♂️. </h4>
  <td><img align="left" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" /> </td>       
 <td>          
          <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Some Achievements - Something About Me </h3>
