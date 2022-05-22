@@ -7,7 +7,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 </h4>
 <table border = "0">
          <tr>
-                  <td><h3 align = "center"><i> ⭐ Stars, Streaks and Stats ⭐ </i></h3>
+                  <td><h3 align = "center"><i> ⭐ Stars, Streaks and Some Stats ⭐ </i></h3>
                         <p><img align="center" alt= "stats card" height="200px" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical"/> </p>
                    <p><img alt = "stars card" height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" /></p>
                   </td>
