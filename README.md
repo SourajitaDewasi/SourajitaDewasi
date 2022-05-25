@@ -20,7 +20,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
     </table>
  
  <hr>
-<h4 align="center">Languages and tools: </h1>
+<h4 align="center">Languages and Tools: </h1>
 <p align="center">
 <div align="center">
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
@@ -28,7 +28,7 @@ I am in my pre-final year of study in IIIT Raipur (India)📍 in the Department 
 
 <details close>
 <p align="center">
-  <summary align="center"> <i><b>Skills 🛠️</b></i></p></summary>
+         <summary align="center"> In-Detail Skills 🛠️</summary></p>
 
 | Programming Languages | Frontend Development | Frameworks | Databases | Operating Systems | IDE | Software & Tools |
 | --- | --- | --- | --- | --- | --- | --- |
