@@ -42,7 +42,7 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 <tr><h4> When not developing stuff, I will be found listening to Ted-Ex🎧, watching K-dramas🎭, reading books 📚 or traveling 🚵🏾‍♂️. </h4>
  <td><img align="left" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" /> </td>       
 <td>          
-         <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Something About Me </h3>
+         <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="3px">&nbsp;Something About Me </h3>
 📔   Currently learning UX Design, Data Analysis and DSA <br> 
 💻   Ex-Summer Research Intern @IIT Bhillai<br> 
 🏆   Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
