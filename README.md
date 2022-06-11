@@ -3,7 +3,7 @@
          width="45" /></h2>
   
 <h4>
-I am in my final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering. I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking to collaborate on Machine Learning, Data Analysis and Web Development Projects. I am currently trying my hands on UX Design!
+I am in my final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering. I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking forward to collaborate on Machine Learning, Data Analysis and Web Development Projects. I am currently trying my hands on UX Design!
 </h4>
 <table border = "0">
          <tr>
@@ -49,7 +49,7 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 🎤   Incharge of Debate Club "Take Da Bait"(2020-21) <br>
 🎓   Chairman's Trophy at BBPS Sipat (2018) <br> 
 ❤️   National Bal Shree Awardee For Creative Writing (2015)<br> 
-💭   Up for a quick chat. Ask me anything on my socials. <br> 
+💭   Up for a quick chat. Tell me anything on my socials. <br> 
 
 </hr>
 <br><br>
