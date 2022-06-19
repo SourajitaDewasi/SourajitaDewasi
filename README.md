@@ -45,7 +45,7 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
          <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;Something About Me </h3>
 📔   Currently learning UX Design, Data Analysis and DSA <br> 
 💻   Ex-Summer Research Intern @IIT Bhillai<br> 
-🏆   Selected in Virtual Prelims of KPMG Ideation Challenge 2021<br> 
+🏆   Selected in Virtual Prelims of KPMG Ideation Challenge '21<br> 
 🎤   Incharge of Debate Club "Take Da Bait"(2020-21) <br>
 🎓   Chairman's Trophy at BBPS Sipat (2018) <br> 
 ❤️   National Bal Shree Awardee For Creative Writing (2015)<br> 
