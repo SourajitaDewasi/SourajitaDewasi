@@ -38,6 +38,14 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 </hr>
 
 <hr>
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Introduction To Data and Data Analysis](https://sourajitad.hashnode.dev/introduction-to-data-and-data-analysis)
+- [Phases of Data Analysis](https://sourajitad.hashnode.dev/phases-of-data-analysis)
+<!-- BLOG-POST-LIST:END -->
+</hr>
+
+<hr>
 <table border="0">
 <tr><h4> When not developing stuff, I will be found listening to Ted-Ex🎧, watching K-dramas🎭, reading books 📚 or traveling 🚵🏾‍♂️. </h4>
  <td><img align="left" height = "200px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=SourajitaDewasi&langs_count=5&theme=radical" /> </td>       
