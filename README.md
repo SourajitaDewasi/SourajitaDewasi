@@ -37,13 +37,12 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 </h4>
 </hr>
 
-<hr>
-📕 &nbsp;**Latest Blog Posts**
+📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Introduction To Data and Data Analysis](https://sourajitad.hashnode.dev/introduction-to-data-and-data-analysis)
-- [Phases of Data Analysis](https://sourajitad.hashnode.dev/phases-of-data-analysis)
+- [ Introduction To Data and Data Analysis ]( https://sourajitad.hashnode.dev/introduction-to-data-and-data-analysis )
+- [ Phases of Data Analysis ]( https://sourajitad.hashnode.dev/phases-of-data-analysis )
 <!-- BLOG-POST-LIST:END -->
-</hr>
+
 
 <hr>
 <table border="0">
