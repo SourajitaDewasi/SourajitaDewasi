@@ -11,7 +11,7 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
                         <p><img align="center" alt= "stats card" height="200px" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=SourajitaDewasi&theme=radical"/> </p>
                    <p><img alt = "stars card" height="200px" width="380" src="https://github-readme-stats.vercel.app/api?username=SourajitaDewasi&count_private=true&theme=radical&show_icons=true" /></p>
                   </td>
-               <td><p align = "right"><img src="https://komarev.com/ghpvc/?username=SourajitaDewasi&label=Profile%20views&color=0e75b6&style=flat" alt="SourajitaDewasi" /> </p>
+               <td>
               <p>
               <img height="450" width="470" src="https://data.whicdn.com/images/222319615/original.gif" /> </a>
               </p>
