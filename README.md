@@ -3,7 +3,7 @@
          width="45" /></h2>
   
 <h4>
-I am in my final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering. I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking forward to collaborate on Machine Learning, Data Analysis and Web Development Projects. 
+I am in my final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering. I am a Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking forward to collaborate on Machine Learning, Deep Learning, Data Analysis and Web Development Projects. 
 </h4>
 <table border = "0">
          <tr>
