@@ -32,21 +32,18 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 
 | Programming Languages | Frontend Development | Databases | Operating Systems | IDE | Software | Tools | Others |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) | | | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) | ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-| ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) | | | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) | | | | ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
-| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+| ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) | | | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) | ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255) | ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black)  | ![Sublime](https://img.shields.io/badge/Sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
+| ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) | | | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) | | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+| ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) | | | | ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white) | | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | | | | ![Intellij](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white)
 | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 | ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 | ![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-| ![Intellij](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white)
-| ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-| ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-| ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
-| ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black) 
+
+
 | ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
 | ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white)
 </details>
