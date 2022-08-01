@@ -80,6 +80,9 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 </h4>
 </hr>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/SourajitaDewasi/ec96809f099ed6d659305f5938b177d43f2d6f77/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/SourajitaDewasi/ec96809f099ed6d659305f5938b177d43f2d6f77/github-contribution-grid-snake-white.svg#gh-light-mode-only)
+
 <hr>
 <h4 align="center">Connect with me:</h4>
 <p align="center">
