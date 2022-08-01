@@ -50,7 +50,7 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 - [ Phases of Data Analysis ]( https://sourajitad.hashnode.dev/phases-of-data-analysis )
 <!-- BLOG-POST-LIST:END -->
 
-***Check out my portfolio***: https://sourajitadewasi.github.io/ 
+**Check out my portfolio**: https://sourajitadewasi.github.io/ 
 <hr>
 <table border="0">
 <tr><h4> When not developing stuff, I will be found listening to Ted-Ex🎧, watching K-dramas🎭, reading books 📚 or traveling 🚵🏾‍♂️. </h4>
