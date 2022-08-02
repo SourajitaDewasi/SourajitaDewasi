@@ -74,7 +74,7 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 <hr>
 <h4 align="center">
 <details close>
-<summary align="center">Check Out My Contribution Graph</summary>
+<summary align="center">Check Out My Cool Contribution Graph</summary>
 <img src="https://activity-graph.herokuapp.com/graph?username=SourajitaDewasi&theme=radical"/>
 </details>
 </h4>
