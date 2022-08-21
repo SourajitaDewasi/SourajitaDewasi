@@ -46,6 +46,7 @@ I am in my final year of study in IIIT Raipur (India)📍 in the Department of C
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ Join in SQL ]( )
 - [ Pattern Matching in SQL ]( https://sourajitad.hashnode.dev/pattern-matching-in-sql )
 - [ Introduction To Data and Data Analysis ]( https://sourajitad.hashnode.dev/introduction-to-data-and-data-analysis )
 - [ Phases of Data Analysis ]( https://sourajitad.hashnode.dev/phases-of-data-analysis )
