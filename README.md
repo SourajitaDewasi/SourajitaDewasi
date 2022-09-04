@@ -4,6 +4,8 @@
   
 <h4>
 I am in my final year of study in IIIT Raipur (India)📍 in the Department of Computer Science and Engineering. I am a Data Analyst, Frontend Developer, Deep Learning Enthusiast and Writer. I’m looking forward to collaborate on Machine Learning, Deep Learning, Data Analysis and Web Development Projects. 
+
+Also open to work on any OpenSource project:)
 </h4>
 <table border = "0">
          <tr>
