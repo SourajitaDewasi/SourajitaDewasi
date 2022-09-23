@@ -49,7 +49,7 @@ Also open to work on any OpenSource project:)
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [ Join in SQL ]( )
+- [ Intoduction To Decision Tree 1](https://sourajitad.hashnode.dev/introduction-to-decision-trees-part-1)
 - [ Pattern Matching in SQL ]( https://sourajitad.hashnode.dev/pattern-matching-in-sql )
 - [ Introduction To Data and Data Analysis ]( https://sourajitad.hashnode.dev/introduction-to-data-and-data-analysis )
 - [ Phases of Data Analysis ]( https://sourajitad.hashnode.dev/phases-of-data-analysis )
